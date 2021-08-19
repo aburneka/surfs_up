@@ -1,5 +1,4 @@
-<img width="219" alt="june stats" src="https://user-images.githubusercontent.com/79999761/130105485-031d8f3e-9904-4c79-ad69-4ba6f3ab07fb.png">
-# surfs_up
+
 # Surfs Up 
 
 ## Project Overview 
